@@ -1,0 +1,78 @@
+*{
+margin: 0;
+padding: 0;
+
+	
+}
+
+header{
+width: 100%;
+background: rgba(0,0,0,.8);
+heigt: 70px;
+position: fixed;
+z-index: 10;
+}
+
+
+
+.ancho{
+width: 80%;
+heigt: 70px;
+margin: auto;
+}
+
+
+
+
+.logo{
+width: 30%;
+heigt: 70px;
+float: left;
+padding-top: 10px;
+box-sizing: border-box;
+}
+
+
+
+.logo p a{
+color: #fff;
+font-size: 40px;
+text-decoration: none;
+font-weight: bold;
+
+
+}
+
+
+nav{
+width: 70%;
+heigt: 70px;
+text-aling: right;
+float: left;
+padding-top: 24px;
+box-sizing: border-box;
+}
+
+
+nav ul li{
+display: inline;
+}
+
+
+nav ul li a{
+color: #fff;
+font-size: 12px;
+text-decoration: none;
+text-transform: uppercase;
+padding-left: 15px;
+text-aling: right;
+
+
+}
+
+
+
+
+
+
+
